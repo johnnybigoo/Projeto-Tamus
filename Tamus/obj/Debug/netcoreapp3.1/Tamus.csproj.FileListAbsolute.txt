@@ -1,0 +1,12 @@
+/Users/Jones_Mac/Projects/Tamus/Tamus/bin/Debug/netcoreapp3.1/Tamus.deps.json
+/Users/Jones_Mac/Projects/Tamus/Tamus/bin/Debug/netcoreapp3.1/Tamus.runtimeconfig.json
+/Users/Jones_Mac/Projects/Tamus/Tamus/bin/Debug/netcoreapp3.1/Tamus.runtimeconfig.dev.json
+/Users/Jones_Mac/Projects/Tamus/Tamus/bin/Debug/netcoreapp3.1/Tamus.dll
+/Users/Jones_Mac/Projects/Tamus/Tamus/bin/Debug/netcoreapp3.1/Tamus.pdb
+/Users/Jones_Mac/Projects/Tamus/Tamus/obj/Debug/netcoreapp3.1/Tamus.csprojAssemblyReference.cache
+/Users/Jones_Mac/Projects/Tamus/Tamus/obj/Debug/netcoreapp3.1/Tamus.AssemblyInfoInputs.cache
+/Users/Jones_Mac/Projects/Tamus/Tamus/obj/Debug/netcoreapp3.1/Tamus.AssemblyInfo.cs
+/Users/Jones_Mac/Projects/Tamus/Tamus/obj/Debug/netcoreapp3.1/Tamus.csproj.CoreCompileInputs.cache
+/Users/Jones_Mac/Projects/Tamus/Tamus/obj/Debug/netcoreapp3.1/Tamus.dll
+/Users/Jones_Mac/Projects/Tamus/Tamus/obj/Debug/netcoreapp3.1/Tamus.pdb
+/Users/Jones_Mac/Projects/Tamus/Tamus/obj/Debug/netcoreapp3.1/Tamus.genruntimeconfig.cache
